@@ -1,4 +1,4 @@
-Project One - Chada Tech Clocks
+﻿Project One - Chada Tech Clocks
 Author: Nathan Perry
 Course: CS 210 - Programming Languages
 
