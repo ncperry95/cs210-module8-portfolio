@@ -1,0 +1,6 @@
+﻿  ItemTracker.cpp
+  ItemTracker.h
+  main.cpp
+  Generating Code...
+x64\Debug\ItemTracker.obj : warning LNK4042: object specified more than once; extras ignored
+  CornerGrocer_Perry.vcxproj -> C:\Users\apper\source\repos\CornerGrocer_Perry\x64\Debug\CornerGrocer_Perry.exe

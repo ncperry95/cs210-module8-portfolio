@@ -1,0 +1,31 @@
+Pseudocode – Airgead Banking Investment App
+
+START
+
+Display "Welcome to the Airgead Banking Investment Calculator"
+
+Prompt user to enter:
+    - Initial investment amount
+    - Monthly deposit amount
+    - Annual interest rate
+    - Number of years
+
+Validate that all inputs are positive numbers
+IF any input is invalid
+    Display error message and re-prompt
+
+Create Investment object with provided inputs
+
+Display "Balance and Interest Without Additional Monthly Deposits"
+FOR each year from 1 to number of years
+    Calculate interest on total amount
+    Display year, year-end balance, and interest earned
+
+Display "Balance and Interest With Additional Monthly Deposits"
+FOR each year from 1 to number of years
+    FOR each month (1 to 12)
+        Add monthly deposit to total
+        Calculate monthly interest and add to total
+    Display year, year-end balance, and interest earned
+
+END
